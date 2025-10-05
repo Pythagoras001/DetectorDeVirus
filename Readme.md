@@ -23,7 +23,6 @@ La idea principal es convertir cualquier archivo en una secuencia de bytes, anal
 - 🟢 **C#** (.NET 8 / .NET 7 compatible, Windows)
 - 🪟 **Windows Forms** (UI)
 - 🧭 Patrón arquitectónico: **MVC** (separación clara entre modelo, lógica y vista)
-- 🧪 Pruebas unitarias (opcional): xUnit / NUnit
 
 ---
 
